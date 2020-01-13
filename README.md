@@ -24,38 +24,55 @@ EXEMPLE :
 ./tetris -D -d ‘x’ --key-turn=‘q’ -p ‘p’ --key-quit=u -L 2
 
 > *** DEBUG MODE ***
-Key Left :  ^EOD
-Key Right :  ^EOC
-Key Turn :  ‘q’
-Key Drop :  ‘x’
-Key Quit :  u
-Key Pause :  ‘p’
-Next :  Yes
-Level :  2
-Size :  20*10
-Tetriminos :  8
-Tetriminos :  Name 7 :  Size 5*4 :  Color 3 :
+
+> Key Left :  ^EOD
+
+> Key Right :  ^EOC
+
+> Key Turn :  ‘q’
+> Key Drop :  ‘x’
+
+> Key Quit :  u
+
+> Key Pause :  ‘p’
+
+> Next :  Yes
+
+> Level :  2
+
+> Size :  20*10
+
+> Tetriminos :  8
+
+> Tetriminos :  Name 7 :  Size 5*4 :  Color 3 :
  * *
 * * *
  * *
   *
-Tetriminos :  Name bar :  Size 1*4 :  Color 2 :
+
+> Tetriminos :  Name bar :  Size 1*4 :  Color 2 :
 *
 *
 *
 *
-Tetriminos :  Name square :  Size 2*2 :  Color 1 :
+
+> Tetriminos :  Name square :  Size 2*2 :  Color 1 :
 **
 **
-Tetriminos :  Name 6 :  Size 2*3 :  Color 6 :
+
+> Tetriminos :  Name 6 :  Size 2*3 :  Color 6 :
  *
 **
 *
-Tetriminos :  Name inverted-L :  Size 2*3 :  Color 5 :
+
+> Tetriminos :  Name inverted-L :  Size 2*3 :  Color 5 :
  *
  *
 **
-Tetriminos :  Name 5 :  Size 1*1 :  Color 4 :
+
+> Tetriminos :  Name 5 :  Size 1*1 :  Color 4 :
 *
-Tetriminos :  Name 4 :  Error
-Press any key to start Tetris
+
+> Tetriminos :  Name 4 :  Error
+
+> Press any key to start Tetris
