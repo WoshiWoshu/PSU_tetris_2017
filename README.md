@@ -45,33 +45,33 @@ EXEMPLE :
 > Tetriminos :  8
 
 > Tetriminos :  Name 7 :  Size 5*4 :  Color 3 :
- * *
-* * *
- * *
-  *
+>  * *
+> * * *
+>  * *
+>   *
 
 > Tetriminos :  Name bar :  Size 1*4 :  Color 2 :
-*
-*
-*
-*
+> *
+> *
+> *
+> *
 
 > Tetriminos :  Name square :  Size 2*2 :  Color 1 :
-**
-**
+> **
+> **
 
 > Tetriminos :  Name 6 :  Size 2*3 :  Color 6 :
- *
-**
-*
+> *
+> **
+> *
 
 > Tetriminos :  Name inverted-L :  Size 2*3 :  Color 5 :
- *
- *
-**
+> *
+> *
+> **
 
 > Tetriminos :  Name 5 :  Size 1*1 :  Color 4 :
-*
+> *
 
 > Tetriminos :  Name 4 :  Error
 
