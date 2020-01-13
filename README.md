@@ -63,11 +63,7 @@ EXEMPLE :
  **
  **
 
-> Tetriminos :  Name 6 :  Size 2*3 :  Color 6 :
-
-  *
- **
- *
+> Tetriminos :  Name 6 :  Size 2*3 :  Color 6 :   *
 
 > Tetriminos :  Name inverted-L :  Size 2*3 :  Color 5 :
 
