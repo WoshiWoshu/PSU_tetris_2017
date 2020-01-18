@@ -3,15 +3,17 @@ First year mini project in C focusing on files and parameters parsing methods. T
 
 USING :
 
-1) Make 2) ./tetris [options]
+       Make
+       
+       ./tetris [options]
 
 Options:
 
-       --help                  Display this help.
-       -L --level={num}        Start Tetris at level num (default: 1).
-       -l --key-left={K}       Move the tetrimino LEFT using the K key (default: left arrow).
-       -r --key-right={K}      Move the tetrimino RIGHT using the K key (default: right arrow).
-       -t --key-turn={K}       TURN the tetrimino clockwise 90d using the K key (default: top
+       --help                 Display this help.
+       -L --level={num}       Start Tetris at level num (default: 1).
+       -l --key-left={K}      Move the tetrimino LEFT using the K key (default: left arrow).
+       -r --key-right={K}     Move the tetrimino RIGHT using the K key (default: right arrow).
+       -t --key-turn={K}      TURN the tetrimino clockwise 90d using the K key (default: top
        arrow).
        -d --key-drop={K}      DROP the tetrimino using the K key (default: down arrow).
        -q --key-quit={K}      QUIT the game using the K key (default: 'q' key).
